@@ -236,7 +236,7 @@ ul {
 }
 
 #second-big-feature-section {
-	flex-direction: column-reverse;
+	flex-direction: row-reverse;
 }
 
 .features-header h2 {
